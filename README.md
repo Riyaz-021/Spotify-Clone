@@ -31,8 +31,9 @@ A web-based Spotify clone that mimics the user interface and basic functionality
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+## Contributing
 
-
+If you would like to contribute to this project, please feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
 
 
